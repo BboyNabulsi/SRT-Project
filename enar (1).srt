@@ -1,0 +1,31 @@
+584
+00:26:04,450 --> 00:26:05,810
+Nobody cares why it works.
+لا أحد مهتم لماذا يشتغل.
+
+585
+00:26:17,490 --> 00:26:20,850
+- Wait this is bad.
+- What's that?
+- انتظر، هذا سيء.
+- ما هذا؟
+
+586
+00:26:21,010 --> 00:26:25,730
+- Well it's not connecting to...
+- The machine that controls
+- إنه غير قادر على الاتصال بـ...
+- بالجهاز الذي يتحكم
+
+587
+00:26:25,730 --> 00:26:28,280
+the FTP push is, like, not answering.
+- بنقل الملفات، كأنه، لا يجاوب
+
+588
+00:26:28,280 --> 00:26:30,540
+- Is it loaded?
+- It's "blast" not "blash".
+- هل تم تحميله؟
+- هو blast وليس blash
+
